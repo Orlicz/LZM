@@ -96,7 +96,9 @@ no more to speak.
 - nvim
 - Kate
 
+clion emacs ..一些我真没用过，但我尝试过zed，真难用。
 
+最终只有sublime是值得使用的editor，vsc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDQ0MDcyOSwtMTM1ODgzNjA3OF19
+eyJoaXN0b3J5IjpbLTMyNzg3MDMxMCwtMTM1ODgzNjA3OF19
 -->
