@@ -20,7 +20,7 @@ toolbar_menu: # 顶栏菜单，支持二级菜单
 banner_title: '' # Banner 标题，留空则跟随博客标题
 enable_banner_title_typing_effect: true # 是否启用 Banner 打字效果
 theme.banner_typing_effect_interval: 100 # Banner 打字间隔时长，单位 ms/字
-banner_subtitle: 'Banner Banner' # Banner 子标题，留空则不显示
+banner_subtitle: '刘梓墨' # Banner 子标题，留空则不显示
 banner_background_url: '' # Banner 背景图，留空则不显示
 banner_background_hide_shapes: false # 是否隐藏 Banner 背景圆形
 banner_background_color_type: 'bg-gradient-success' # Banner 渐变样式，Banner 背景图会覆盖该选项，可选值: shape-primary, shape-default, shape-dark, bg-gradient-success, bg-gradient-info, bg-gradient-warning, bg-gradient-danger
@@ -32,9 +32,6 @@ sidebar_announcement: '' # 侧栏公告，留空则不显示
 leftbar_menu: # 侧栏顶部菜单，支持无限层级菜单嵌套
   首页: /
   归档: /archives
-  二级菜单:
-    三级菜单:
-      首页: /
 sidebar_auther_image: 'https://raw.githubusercontent.com/hexojs/logo/master/hexo-logo-avatar.png' # 侧栏作者头像
 sidebar_auther_name: '' # 侧栏作者名，留空则跟随博客名
 leftbar_author_links: # 侧栏作者链接列表
