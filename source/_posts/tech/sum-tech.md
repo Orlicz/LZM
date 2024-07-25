@@ -161,7 +161,9 @@ C --> D
 Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete. but i do not care it, because i only write the story down without equlatis or codes.
 
 that is enough.
+
+sometimes i love type in English, i think it is so .
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM1Nzc3NTQsMTgzNjMwODA2NSwtMj
-Y5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbMTEyOTkxNjAxMiwtMTE2MzU3Nzc1NCwxOD
+M2MzA4MDY1LC0yNjk4MDI2NDRdfQ==
 -->
