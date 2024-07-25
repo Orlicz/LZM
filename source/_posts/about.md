@@ -104,7 +104,10 @@ devc有些老，快捷键也不是很好。vim可能有用，但是我为什么�
 kate远不如sublime，唯一的优势是开源。
 
 sublime不开源，唐。
+
+---
+
+其实linux也不是不能用，但windows的像素艺术确实不错。可惜windows编译程序太慢，看上去内存占用也不小。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgzNDA5NDQsLTEzNTg4MzYwNzhdfQ
-==
+eyJoaXN0b3J5IjpbOTUxMjUyNzEwLC0xMzU4ODM2MDc4XX0=
 -->
