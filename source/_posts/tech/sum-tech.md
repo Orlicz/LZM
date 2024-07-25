@@ -156,8 +156,10 @@ C --> D
 
 ### ref
 
-Unforu
+Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjcxNDkwMCwxODM2MzA4MDY1LC0yNj
-k4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTAxMDIwOTcsMTgzNjMwODA2NSwtMj
+Y5ODAyNjQ0XX0=
 -->
