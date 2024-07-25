@@ -84,8 +84,8 @@ no more to speak.
 
 ## 关于我
 
-sublime*
+光明的sublime**圣教**。tabs indent，大括号不换行，空格
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4NzQ2MjEsLTEzNTg4MzYwNzhdfQ
+eyJoaXN0b3J5IjpbLTE3MjQyOTk3NzMsLTEzNTg4MzYwNzhdfQ
 ==
 -->
