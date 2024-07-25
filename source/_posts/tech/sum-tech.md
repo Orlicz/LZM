@@ -158,8 +158,8 @@ C --> D
 
 ### ref
 
-Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete. but i do not care it, bec
+Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete. but i do not care it, because i only w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAyMzcwODIsMTgzNjMwODA2NSwtMj
-Y5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbNjI0MTMzMTc4LDE4MzYzMDgwNjUsLTI2OT
+gwMjY0NF19
 -->
