@@ -111,8 +111,12 @@ sublime不开源，唐。
 
 ---
 
-我还是 `bits/stdc++.h` 主义者，
+我还是 `bits/stdc++.h` 主义者，`#define int long long` 使用者，`signed main` 书写者，`size_t` 代替 `ll` 的尝试者。
+
+> 最后一条的原因是 Sublime 对 size_t 有高亮。
+
+我建议大家都s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTA1NTkyMSwtMjEwOTc4OTc1OSwtMT
-M1ODgzNjA3OF19
+eyJoaXN0b3J5IjpbMjIzMjU1NzYyLC0yMTA5Nzg5NzU5LC0xMz
+U4ODM2MDc4XX0=
 -->
