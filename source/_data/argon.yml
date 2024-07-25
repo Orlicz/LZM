@@ -15,6 +15,7 @@ toolbar_title: '' # 顶栏标题，留空则跟随博客标题
 toolbar_menu: # 顶栏菜单，支持二级菜单
   首页: /
   归档: /archives
+  关于: /2024/07/25/about/
 
 # Banner
 banner_title: '' # Banner 标题，留空则跟随博客标题
