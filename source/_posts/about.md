@@ -9,9 +9,4 @@ LZM.
 
 $\LaTeX$
 
-$$
-\begin{align*}
-\frac 12& &\binom 12\\
-a& &\mathbb{F}
-\end{align*}
-$$
+$$Latex!$$
