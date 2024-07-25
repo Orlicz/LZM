@@ -158,8 +158,10 @@ C --> D
 
 ### ref
 
-Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete. but i do not care it, because i only w
+Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete. but i do not care it, because i only write the story down without equlatis or codes.
+
+that is enough.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTMzMTc4LDE4MzYzMDgwNjUsLTI2OT
-gwMjY0NF19
+eyJoaXN0b3J5IjpbLTExNjM1Nzc3NTQsMTgzNjMwODA2NSwtMj
+Y5ODAyNjQ0XX0=
 -->
