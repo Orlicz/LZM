@@ -103,7 +103,8 @@ clion emacs ..一些我真没用过，但我尝试过zed，真难用。
 devc有些老，快捷键也不是很好。vim可能有用，但是我为什么会用？
 kate远不如sublime，唯一的优势是开源。
 
-sublime不开源
+sublime不开源，唐。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzM1OTU3OCwtMTM1ODgzNjA3OF19
+eyJoaXN0b3J5IjpbLTEzMzgzNDA5NDQsLTEzNTg4MzYwNzhdfQ
+==
 -->
