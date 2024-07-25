@@ -101,8 +101,9 @@ clion emacs ..一些我真没用过，但我尝试过zed，真难用。
 最终只有sublime是值得使用的editor，vscode有一点重，风味也不是太好。但是考虑到ry他使用light，还有好多使用dark，好像只有我不用vsc。但是我就是喜欢sublime！
 
 devc有些老，快捷键也不是很好。vim可能有用，但是我为什么会用？
-kate
+kate远不如sublime，唯一的优势是开源。
+
+sublime不开源
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTcxNzUwMzMsLTEzNTg4MzYwNzhdfQ
-==
+eyJoaXN0b3J5IjpbLTYzNzM1OTU3OCwtMTM1ODgzNjA3OF19
 -->
