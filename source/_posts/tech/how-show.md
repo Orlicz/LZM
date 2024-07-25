@@ -7,9 +7,9 @@ date: 2024.7.25
 
 现在github上出现了很多所谓argon ui，其实最早是argon主题 by s23。
 
-verceltuo
+vercel托管
 
 > Written with [StackEdit中文版](https://stackedit.cn/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQzNzIzMThdfQ==
+eyJoaXN0b3J5IjpbLTc5ODU3MzM0OV19
 -->
