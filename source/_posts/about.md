@@ -84,8 +84,13 @@ no more to speak.
 
 ## 关于我
 
-光明的sublime**圣教**。tabs indent，大括号不换行，空格
+光明的sublime**圣教**。tabs indent，大括号不换行，疯狂加空格。['](#难以和cxm区分)
+
+我尝试过很多editor，最终发现可以称作editor/IDE的只有
+
+- su
+- vscode
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQyOTk3NzMsLTEzNTg4MzYwNzhdfQ
-==
+eyJoaXN0b3J5IjpbNTczNDU5MjY0LC0xMzU4ODM2MDc4XX0=
 -->
