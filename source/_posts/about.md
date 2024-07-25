@@ -84,7 +84,8 @@ no more to speak.
 
 ## 关于我
 
-sublime主义者，
+sublime*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg4MzYwNzhdfQ==
+eyJoaXN0b3J5IjpbLTEzOTk4NzQ2MjEsLTEzNTg4MzYwNzhdfQ
+==
 -->
