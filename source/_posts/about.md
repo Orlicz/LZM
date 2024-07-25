@@ -111,8 +111,8 @@ sublime不开源，唐。
 
 ---
 
-
+我还是 `bits/stdc++.h` 主义者，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk3ODk3NTksLTEzNTg4MzYwNzhdfQ
-==
+eyJoaXN0b3J5IjpbMTMzOTA1NTkyMSwtMjEwOTc4OTc1OSwtMT
+M1ODgzNjA3OF19
 -->
