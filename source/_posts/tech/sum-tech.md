@@ -7,6 +7,8 @@ this article written by [stackedit](//stackedit.io/) and its cn variant.
 
 i learnt it from cxm. by the way, he type "s" and the first suggestion is slay.one
 
+[jump to next](#ref)
+
 ---
 
 # Welcome to StackEdit!
@@ -156,10 +158,8 @@ C --> D
 
 ### ref
 
-Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete.
-
-
+Unfortunately, the support for $\KaTeX$ and `sort code` is incomplete. but i do not care it, bec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAxMDIwOTcsMTgzNjMwODA2NSwtMj
+eyJoaXN0b3J5IjpbLTE2OTAyMzcwODIsMTgzNjMwODA2NSwtMj
 Y5ODAyNjQ0XX0=
 -->
