@@ -108,6 +108,11 @@ sublime不开源，唐。
 ---
 
 其实linux也不是不能用，但windows的像素艺术确实不错。可惜windows编译程序太慢，看上去内存占用也不小。
+
+---
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMjUyNzEwLC0xMzU4ODM2MDc4XX0=
+eyJoaXN0b3J5IjpbLTIxMDk3ODk3NTksLTEzNTg4MzYwNzhdfQ
+==
 -->
