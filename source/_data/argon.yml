@@ -27,7 +27,7 @@ banner_background_color_type: 'bg-gradient-success' # Banner 渐变样式，Bann
 
 # 侧栏
 sidebar_banner_title: '' # 侧栏标题，留空则跟随博客标题
-sidebar_banner_subtitle: '--hitokoto--' # 侧栏子标题，留空则不显示，设为 --hitokoto-- 调用一言
+sidebar_banner_subtitle: '' # 侧栏子标题，留空则不显示，设为 --hitokoto-- 调用一言
 sidebar_announcement: '' # 侧栏公告，留空则不显示
 leftbar_menu: # 侧栏顶部菜单，支持无限层级菜单嵌套
   首页: /
