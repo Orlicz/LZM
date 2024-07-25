@@ -88,9 +88,15 @@ no more to speak.
 
 我尝试过很多editor，最终发现可以称作editor/IDE的只有
 
-- su
-- vscode
-- 
+- Sublime
+- VScode
+- devCpp
+- VS
+- vim
+- nvim
+- Kate
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNDU5MjY0LC0xMzU4ODM2MDc4XX0=
+eyJoaXN0b3J5IjpbMTQ2NDQ0MDcyOSwtMTM1ODgzNjA3OF19
 -->
