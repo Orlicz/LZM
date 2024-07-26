@@ -116,7 +116,10 @@ sublime不开源，唐。
 > 最后一条的原因是 Sublime 对 size_t 有高亮。
 
 我建议大家都使用我的爱好，将它成为广为人知的！
+
+![](https://z4a.net/images/2024/07/26/microwind.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM2ODY4NTcsLTIxMDk3ODk3NTksLT
-EzNTg4MzYwNzhdfQ==
+eyJoaXN0b3J5IjpbMjA2OTgyMzEyNywtMTkxMzY4Njg1NywtMj
+EwOTc4OTc1OSwtMTM1ODgzNjA3OF19
 -->
