@@ -94,14 +94,14 @@ enable_mobile_scale: false # 是否允许手机端缩放页面
 footer_html: '' # 页脚 HTML
 
 # 数学公式
-math_render: '' # 数学公式渲染方案，留空则不渲染，可选值: mathjax3, mathjax2, katex
+math_render: 'katex' # 数学公式渲染方案，留空则不渲染，可选值: mathjax3, mathjax2, katex
 mathjax_cdn_url: //cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js # Mathjax 3 CDN 地址
 argon_mathjax_v2_cdn_url: //cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-AMS_HTML # Mathjax 2 CDN 地址
-katex_cdn_url: //cdn.jsdelivr.net/npm/katex@0.11.1/dist/ # Katex CDN 地址
+katex_cdn_url: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/ # Katex CDN 地址
 
 # 代码高亮
-enable_code_highlight: false # 是否启用 Highlight.js 代码高亮
-code_theme: vs2015 # 代码高亮主题
+enable_code_highlight: true # 是否启用 Highlight.js 代码高亮
+code_theme: github-min # 代码高亮主题
 
 # 脚本
 custom_html_head: '' # 页头脚本，HTML
