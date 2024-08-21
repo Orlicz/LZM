@@ -116,12 +116,15 @@ $$
 
 证明：调整法
 
-
+```mermaid
+graph 
+```
 
 
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAyNDE1ODZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTc4NjA3ODMsLTEyMDAyNDE1ODZdfQ
+==
 -->
