@@ -100,7 +100,9 @@ signed main() {
 
 ### 最小割树
 
-对于一个图 $G(V,E)$，称 $\alpha(u,v)$ 为 $u-v-\min cut$ 的边集
+对于一个图 $G(V,E)$，称 $\lambda(u,v)$ 为 $u-v-\min cut$ 的边集。不区分一个集合与其权值总和。
+
+称 $\lambda(U)$ 为 $\lambd(U,V\setminus U)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkxMjU0MTddfQ==
+eyJoaXN0b3J5IjpbMjY2NzE0NDI5XX0=
 -->
