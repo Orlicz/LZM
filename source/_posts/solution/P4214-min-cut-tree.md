@@ -102,7 +102,11 @@ signed main() {
 
 对于一个图 $G(V,E)$，称 $\lambda(u,v)$ 为 $u-v-\min cut$ 的边集。不区分一个集合与其权值总和。
 
-称 $\lambda(U)$ 为 $\lambd(U,V\setminus U)$
+称 $\lambda(U)$ 为 $\lambda(U,V\setminus U)$。
+
+$\lambda(U)$ 是关于 $U$ 的 sub-muodula
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NzE0NDI5XX0=
+eyJoaXN0b3J5IjpbLTEyMjkzMDA4MDZdfQ==
 -->
