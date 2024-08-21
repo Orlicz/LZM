@@ -104,9 +104,17 @@ signed main() {
 
 称 $\lambda(U)$ 为 $\lambda(U,V\setminus U)$。
 
-$\lambda(U)$ 是关于 $U$ 的 sub-muodula
+$\lambda(U)$ 是关于 $U$ 的 submod 函数。其中 submod 函数 $F$ 定义为：
+
+$$
+F(U_1)+F(U_2)\ge F(U_1\cup U_2)+F(U_1 \cap U_2)
+$$
+
+这就是anti四边形不等式：交叉劣于包含。
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkzMDA4MDZdfQ==
+eyJoaXN0b3J5IjpbMTIyMzUyNDk4NV19
 -->
