@@ -112,9 +112,16 @@ $$
 
 这就是anti四边形不等式：交叉劣于包含。
 
+---
 
+证明：调整法
+
+
+
+
+---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzUyNDk4NV19
+eyJoaXN0b3J5IjpbLTEyMDAyNDE1ODZdfQ==
 -->
