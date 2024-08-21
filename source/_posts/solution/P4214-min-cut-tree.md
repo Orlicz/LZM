@@ -94,7 +94,13 @@ signed main() {
 
 ---
 
-我现在y
+我现在又会了！！！
+
+---
+
+### 最小割树
+
+对于一个图 $G(V,E)$，称 $\alpha(u,v)$ 为 $u-v-\min cut$ 的边集
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTgxNjkzMV19
+eyJoaXN0b3J5IjpbLTE4NzkxMjU0MTddfQ==
 -->
