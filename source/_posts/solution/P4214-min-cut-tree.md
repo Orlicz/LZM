@@ -117,7 +117,8 @@ $$
 证明：调整法
 
 ```mermaid
-graph 
+graph LR
+a(($AaB$))
 ```
 
 
@@ -125,6 +126,6 @@ graph
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc4NjA3ODMsLTEyMDAyNDE1ODZdfQ
+eyJoaXN0b3J5IjpbLTEyMzc0NzY1NTYsLTEyMDAyNDE1ODZdfQ
 ==
 -->
