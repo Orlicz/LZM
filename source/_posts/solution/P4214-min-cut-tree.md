@@ -117,7 +117,7 @@ $$
 
 证明：调整法
 
-<svg width="300px"height="300px"version="1.1"id="svg19"xmlns="http://www.w3.org/2000/svg"xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs19"/><g id="g19"><g id="g13"><g id="g2"><path d="M 64.41644360834192 236.12169428647124 L 63.878305713526245 64.41644360834192"fill="none"stroke-width="2"stroke="orange"id="path1"/><path d="M 64.41644360834192 236.12169428647124 L 63.878305713526245 64.41644360834192"opacity="0"fill="none"stroke-width="30"stroke="orange"id="path2"/><text font-size="15px"dy="0.35em"text-anchor="middle"style="user-select: none;"x="73.50005578994751"y="150.2301014482946"id="text2">1</text></g><g id="g4"><path d="M 64.41644360834192 236.12169428647124 L 236.12169428647124 235.58355639165552"fill="none"stroke-width="2"stroke="orange"id="path3"/><path d="M 64.41644360834192 236.12169428647124 L 236.12169428647124 235.58355639165552"opacity="0"fill="none"stroke-width="30"stroke="orange"id="path4"/><text font-size="15px"dy="0.35em"text-anchor="middle"style="user-select: none;"x="150.0730813368088"y="223.42405891418457"id="text4">2</text></g><g id="g6"><path d="M 235.58355639165552 63.878305713526245 L 63.878305713526245 64.41644360834192"fill="none"stroke-width="2"stroke="orange"id="path5"/><path d="M 235.58355639165552 63.878305713526245 L 63.878305713526245 64.41644360834192"opacity="0"fill="none"stroke-width="30"stroke="orange"id="path6"/><text font-size="15px"dy="0.35em"text-anchor="middle"style="user-select: none;"x="149.53588578235411"y="51.71878910064697"id="text6">4</text></g><g id="g8"><path d="M 235.58355639165552 63.878305713526245 L 236.12169428647124 235.58355639165552"fill="none"stroke-width="2"stroke="orange"id="path7"/><path d="M 235.58355639165552 63.878305713526245 L 236.12169428647124 235.58355639165552"opacity="0"fill="none"stroke-width="30"stroke="orange"id="path8"/><text font-size="15px"dy="0.35em"text-anchor="middle"style="user-select: none;"x="245.20529413223267"y="149.69185965316137"id="text8">5</text></g><g id="g10"><path d="M 63.878305713526245 64.41644360834192 L 236.12169428647124 235.58355639165552"fill="none"stroke-width="2"stroke="orange"id="path9"/><path d="M 63.878305713526245 64.41644360834192 L 236.12169428647124 235.58355639165552"opacity="0"fill="none"stroke-width="30"stroke="orange"id="path10"/><text font-size="15px"dy="0.35em"text-anchor="middle"style="user-select: none;"x="159.35267877578735"y="137.5714282989502"id="text10">3</text></g><g id="g12"><path d="M 235.58355639165552 63.878305713526245 L 64.41644360834192 236.12169428647124"fill="none"stroke-width="2"stroke="orange"id="path11"/><path d="M 235.58355639165552 63.878305713526245 L 64.41644360834192 236.12169428647124"opacity="0"fill="none"stroke-width="30"stroke="orange"id="path12"/><text font-size="15px"dy="0.35em"text-anchor="middle"style="user-select: none;"x="140.64732122421265"y="137.64895463569366"id="text12">6</text></g></g><g id="g18"><g fixed="false"style="cursor: pointer;"id="g14"><circle stroke-width="2"fill="white"stroke="black"r="30"cx="64.41644360834192"cy="236.12169428647124"id="circle13"/><text font-size="14"dy=".35em"text-anchor="middle"stroke-width="1"fill="black"stroke="black"x="64.41644360834192"y="236.12169428647124"style="user-select: none;"opacity="1"id="text13">A∩B</text></g><g fixed="false"style="cursor: pointer;"id="g15"><circle stroke-width="2"fill="white"stroke="black"r="30"cx="63.878305713526245"cy="64.41644360834192"id="circle14"/><text font-size="14"dy=".35em"text-anchor="middle"stroke-width="1"fill="black"stroke="black"x="63.878305713526245"y="64.41644360834192"style="user-select: none;"opacity="1"id="text14">A\B</text></g><g fixed="false"style="cursor: pointer;"id="g16"><circle stroke-width="2"fill="white"stroke="black"r="30"cx="236.12169428647124"cy="235.58355639165552"id="circle15"/><text font-size="14"dy=".35em"text-anchor="middle"stroke-width="1"fill="black"stroke="black"x="236.12169428647124"y="235.58355639165552"style="user-select: none;"opacity="1"id="text15">B\A</text></g><g fixed="false"style="cursor: pointer;"id="g17"><circle stroke-width="2"fill="white"stroke="black"r="30"cx="235.58355639165552"cy="63.878305713526245"id="circle16"/><text font-size="14"dy=".35em"text-anchor="middle"stroke-width="1"fill="black"stroke="black"x="235.58355639165552"y="63.878305713526245"style="user-select: none;"opacity="1"id="text16">V\{A,B}</text></g></g></g><rect style="fill:none;stroke:#ff0000;stroke-width:2.09328;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"id="rect1"width="82.906723"height="264.50189"x="26.065836"y="14.056974"/><rect style="fill:none;stroke:#0cff00;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"id="rect2"width="264.59518"height="85"x="14.810926"y="188.13879"/></svg> 
+![输入图片说明](/imgs/2024-08-22/NVzvDe6FtnyzXwv8.svg+xml)
 
 容易发现 $\lambda(A)+\lambda(B)=\#4+\#6+\#3+\#2+\#1+\#5+\#6+\#3$，然后 交加并 显然更小。
 
@@ -135,8 +135,8 @@ $$
 这个你固然可以把上面的图再用一边，但是国家队论文不能这样简单，需要更加高深莫测。调整的方法也很容易：
 
 $submod+sym\to posmod$，为什么呢？因为
+
 $$
-\def\lambda{\lambda}
 \lambda(A)+\lambda(B)=\lambda(\overline A)+\lambda(B)
 $$
 
@@ -169,7 +169,7 @@ $$
 这个代码若是正确的，则最小割需要具有这样的结构：
 
 $$
-\lambdaorall s,t,U,u,v\mid \lambda(U)=\lambda(s,t)
+\forall s,t,U,u,v\mid \lambda(U)=\lambda(s,t)
 $$
 
 $$
@@ -203,6 +203,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Njg4ODA1NiwtMTIzNzQ3NjU1NiwtMT
-IwMDI0MTU4Nl19
+eyJoaXN0b3J5IjpbNzg0MzI0NSwtMTIzNzQ3NjU1NiwtMTIwMD
+I0MTU4Nl19
 -->
