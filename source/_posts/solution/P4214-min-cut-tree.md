@@ -1,8 +1,9 @@
 ---
 title: 最小割树
-date: 2024.8.21
+date: 2024.8.20
 ---
 
+24.8.21 22 进行删改。21晚上没写完，22上午看病，下午4:48写完。
 
 太难了，我不会。但是 2016国家集训队论文中有 “浅谈。。。” 的一篇 p67左右。
 
@@ -98,21 +99,6 @@ signed main() {
 
 ---
 
-### 最小割树
-
-对于一个图 $G(V,E)$，称 $\lambda(u,v)$ 为 $u-v-\min cut$ 的边集。不区分一个集合与其权值总和。
-
-称 $\lambda(U)$ 为 $\lambda(U,V\setminus U)$。
-
-$\lambda(U)$ 是关于 $U$ 的 submod 函数。其中 submod 函数 $F$ 定义为：
-
-$$
-F(U_1)+F(U_2)\ge F(U_1\cup U_2)+F(U_1 \cap U_2)
-$$
-
-这就是anti四边形不等式：交叉劣于包含。
-
----
 ### 最小割树
 
 对于一个图 $G(V,E)$，称 $\lambda(u,v)$ 为 $u-v-\min cut$ 的边集。不区分一个集合与其权值总和。
@@ -218,6 +204,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDA3NDM5NCwtMTIzNzQ3NjU1NiwtMT
+eyJoaXN0b3J5IjpbMTIxODI1NTA4OSwtMTIzNzQ3NjU1NiwtMT
 IwMDI0MTU4Nl19
 -->
