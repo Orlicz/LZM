@@ -106,8 +106,8 @@ signed main() {
 称 $\lambda(U)$ 为 $\lambda(U,V\setminus U)$。
 
 $\lambda(U)$ 是关于 $U$ 的 $\operatorname{sub-mod}$ 函数。其中 submod 函数 $F$ 定义为：
-$$
-F(U_1)+F(U_2)\ge F(U_1\cup U_2)+F(U_1 \cap U_2)$$
+
+$$F(U_1)+F(U_2)\ge F(U_1\cup U_2)+F(U_1 \cap U_2)$$
 
 这就是anti四边形不等式：交叉劣于包含。
 
@@ -128,17 +128,16 @@ $\lambda$ 还是对称的。显然。
 
 ---
 
-$\lambda$ 是 $\operatorname{postive-mode}$ 的。什么叫做 pos mod 呢？就是$$
-\lambda(A)+\lambda(B)\ge \lambda(A\setminus B)+\lambda(B\setminus A)$$
+$\lambda$ 是 $\operatorname{postive-mode}$ 的。什么叫做 pos mod 呢？就是
+
+$$\lambda(A)+\lambda(B)\ge \lambda(A\setminus B)+\lambda(B\setminus A)$$
+
 这个你固然可以把上面的图再用一边，但是国家队论文不能这样简单，需要更加高深莫测。调整的方法也很容易：
 
 $submod+sym\to posmod$，为什么呢？因为
-$$
-\lambda(A)+\lambda(B)=\lambda(\overline A)+\lambda(B)$$
-$$
-\ge \lambda(\overline A\cap B)+\lambda(\overline A \cup B)$$
-$$
-=\lambda(B\setminus A)+\lambda(A\setminus B)$$
+$$\lambda(A)+\lambda(B)=\lambda(\overline A)+\lambda(B)$$
+$$\ge \lambda(\overline A\cap B)+\lambda(\overline A \cup B)$$
+$$=\lambda(B\setminus A)+\lambda(A\setminus B)$$
 
 我们可能觉得这种推导对于这个问题是没有什么意义的；但是不能看得出来这种分析的不必要。因为事实既是如此，sub mod=>pos mod 其中必有联系；同时，这两种结构在广泛的图论结构、集合结构中出现：这就是某种凸性！
 
@@ -159,10 +158,8 @@ $$
 通过这个代码就可以建立最小割树，其中 adds 函数是最小割树的边；a 数组一开始等于 1~n。
 
 这个代码若是正确的，则最小割需要具有这样的结构：
-$$
-\forall s,t,U,u,v\mid \lambda(U)=\lambda(s,t)$$
-$$
-\exists W \in U\mid \lambda(u,v)=\lambda(W)$$
+$$\forall s,t,U,u,v\mid \lambda(U)=\lambda(s,t)$$
+$$\exists W \in U\mid \lambda(u,v)=\lambda(W)$$
 
 [](文化大统一！原始论文中的 $\lambda,\alpha,F,c$ 等函数十分复杂，而我仅仅使用同一个函数就表示了其中的所有含义！)
 
@@ -191,6 +188,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjY1Mzg1MCwtMTIzNzQ3NjU1NiwtMT
-IwMDI0MTU4Nl19
+eyJoaXN0b3J5IjpbMjg4MzcyNjkyLC0xMjM3NDc2NTU2LC0xMj
+AwMjQxNTg2XX0=
 -->
