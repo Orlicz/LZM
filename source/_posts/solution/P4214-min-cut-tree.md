@@ -106,10 +106,8 @@ signed main() {
 称 $\lambda(U)$ 为 $\lambda(U,V\setminus U)$。
 
 $\lambda(U)$ 是关于 $U$ 的 $\operatorname{sub-mod}$ 函数。其中 submod 函数 $F$ 定义为：
-
-$$
-F(U_1)+F(U_2)\ge F(U_1\cup U_2)+F(U_1 \cap U_2)
-$$
+$
+F(U_1)+F(U_2)\ge F(U_1\cup U_2)+F(U_1 \cap U_2)$
 
 这就是anti四边形不等式：交叉劣于包含。
 
@@ -119,7 +117,7 @@ $$
 
 ![输入图片说明](/imgs/2024-08-22/158m6yZW8uEOKhZI.svg+xml)
 
-容易发现 $\lambda(A)+\lambda(B)=\\#4+\\#6+\\#3+\\#2+\\#1+\\#5+\\#6+\\#3$，然后 交加并 显然更小。
+容易发现  $\lambda(A)+\lambda(B)=\\#4+\\#6+\\#3+\\#2+\\#1+\\#5+\\#6+\\#3$，然后 交加并 显然更小。
 
 
 ---
@@ -173,8 +171,7 @@ $$
 $$
 
 $$
-\exists W \in U\mid \lambda(u,v)=\lambda(W)
-$$
+\exists W \in U\mid \lambda(u,v)=\lambda(W)$
 
 [](文化大统一！原始论文中的 $\lambda,\alpha,F,c$ 等函数十分复杂，而我仅仅使用同一个函数就表示了其中的所有含义！)
 
@@ -203,6 +200,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU2NDE3MTAsLTEyMzc0NzY1NTYsLT
-EyMDAyNDE1ODZdfQ==
+eyJoaXN0b3J5IjpbLTQ2MzQ4OTM2OCwtMTIzNzQ3NjU1NiwtMT
+IwMDI0MTU4Nl19
 -->
