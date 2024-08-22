@@ -117,9 +117,9 @@ $$
 
 证明：调整法
 
-![输入图片说明](/imgs/2024-08-22/NVzvDe6FtnyzXwv8.svg+xml)
+![输入图片说明](/imgs/2024-08-22/158m6yZW8uEOKhZI.svg+xml)
 
-容易发现 $\lambda(A)+\lambda(B)=\#4+\#6+\#3+\#2+\#1+\#5+\#6+\#3$，然后 交加并 显然更小。
+容易发现 $\lambda(A)+\lambda(B)=\\#4+\\#6+\\#3+\\#2+\\#1+\\#5+\\#6+\\#3$，然后 交加并 显然更小。
 
 
 ---
@@ -203,6 +203,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MzI0NSwtMTIzNzQ3NjU1NiwtMTIwMD
-I0MTU4Nl19
+eyJoaXN0b3J5IjpbLTE2NzU2NDE3MTAsLTEyMzc0NzY1NTYsLT
+EyMDAyNDE1ODZdfQ==
 -->
