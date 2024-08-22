@@ -136,16 +136,16 @@ $$
 
 $submod+sym\to posmod$，为什么呢？因为
 $$
-\def\f{\lambda}
-\f(A)+\f(B)=\f(\overline A)+\f(B)
+\def\lambda{\lambda}
+\lambda(A)+\lambda(B)=\lambda(\overline A)+\lambda(B)
 $$
 
 $$
-\ge \f(\overline A\cap B)+\f(\overline A \cup B)
+\ge \lambda(\overline A\cap B)+\lambda(\overline A \cup B)
 $$
 
 $$
-=\f(B\setminus A)+\f(A\setminus B)
+=\lambda(B\setminus A)+\lambda(A\setminus B)
 $$
 
 我们可能觉得这种推导对于这个问题是没有什么意义的；但是不能看得出来这种分析的不必要。因为事实既是如此，sub mod=>pos mod 其中必有联系；同时，这两种结构在广泛的图论结构、集合结构中出现：这就是某种凸性！
@@ -167,29 +167,28 @@ $$
 通过这个代码就可以建立最小割树，其中 adds 函数是最小割树的边；a 数组一开始等于 1~n。
 
 这个代码若是正确的，则最小割需要具有这样的结构：
+
 $$
-\forall s,t,U,u,v\mid \f(U)=\lambda(s,t)
+\lambdaorall s,t,U,u,v\mid \lambda(U)=\lambda(s,t)
 $$
 
 $$
-\exists W \in U\mid \f(u,v)=\f(W)
+\exists W \in U\mid \lambda(u,v)=\lambda(W)
 $$
 
-[](文化大统一！原始论文中的 $\f,\alpha,F,c$ 等函数十分复杂，而我仅仅使用同一个函数就表示了其中的所有含义！)
+[](文化大统一！原始论文中的 $\lambda,\alpha,F,c$ 等函数十分复杂，而我仅仅使用同一个函数就表示了其中的所有含义！)
 
 然后事实上这个也是正确的。我们直接讨论一些局面：不妨设 $s\in W$（反正都一样）
 
-1. $s\in W,t\in \overline W$
+1. $s\in W,t\in \overline W$    
 
-    ![image-20240822162414747](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20240822162414747.png)
-
-    易见 $\lambda(u,v)=\f(W)\ge \lambda(s,t)=\f(U)$ 同时却又 $\f(W)+\f(U)\ge \f(U\cap W)+\f(U\cup W)$
+    易见 $\lambda(u,v)=\lambda(W)\ge \lambda(s,t)=\lambda(U)$ 同时却又 $\lambda(W)+\lambda(U)\ge \lambda(U\cap W)+\lambda(U\cup W)$
 
     翰文指出可以缩点是显然的，但是这样子文字形式化是困难的，所以我们只能用 sub=mod 性质，然后 $U \cup W$ 明显是 $\operatorname{s-t-cut}$，所以联立不等式马上就有我们只保留 $U\cap W$ 不劣。
 
 2. $s\in W,t\in W$。
 
-    这种情况我们考虑 $W'=U\setminus W$，对它而言，$\f(W'\cup U)\ge\lambda(U)$，所以 $\f(W')+\f(U)\ge\f(W'\cup U)+\f(W'\cap U)$，然后所以 $\f(W'\cap U)\le \f(W)$，所以易见 $W'\cap U$ 更好。图没有必要画。
+    这种情况我们考虑 $W'=U\setminus W$，对它而言，$\lambda(W'\cup U)\ge\lambda(U)$，所以 $\lambda(W')+\lambda(U)\ge\lambda(W'\cup U)+\lambda(W'\cap U)$，然后所以 $\lambda(W'\cap U)\le \lambda(W)$，所以易见 $W'\cap U$ 更好。图没有必要画。
 
 就这样。翰文指出 递归左子树时直接对 $\overline U$ 缩点即可，反之亦然。这个他从流的角度。
 
@@ -204,6 +203,6 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODI1NTA4OSwtMTIzNzQ3NjU1NiwtMT
+eyJoaXN0b3J5IjpbMTg0Njg4ODA1NiwtMTIzNzQ3NjU1NiwtMT
 IwMDI0MTU4Nl19
 -->
