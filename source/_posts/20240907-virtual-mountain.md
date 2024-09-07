@@ -12,6 +12,10 @@ title: virual mountain
 一栾松柏绿，十里雨烟茫。
 
 莫问绝顶秀，前行既风光。
+
+---
+
+网上查的我这个不符合格律。我尽力了。wo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODQzOTc3NSwtMzM4NzUyNTg3XX0=
+eyJoaXN0b3J5IjpbMTM4MzM1Mjc4NSwtMzM4NzUyNTg3XX0=
 -->
