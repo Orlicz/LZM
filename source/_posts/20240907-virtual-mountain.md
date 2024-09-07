@@ -15,7 +15,7 @@ title: virual mountain
 
 ---
 
-网上查的我这个不符合格律。我尽力了。wo
+网上查的我这个不符合格律。我尽力了。我当年去肮脏的地方，却很觉得自己牛极了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzM1Mjc4NSwtMzM4NzUyNTg3XX0=
+eyJoaXN0b3J5IjpbLTE2MTAwMzA3MzEsLTMzODc1MjU4N119
 -->
