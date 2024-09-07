@@ -15,7 +15,12 @@ title: virual mountain
 
 ---
 
-网上查的我这个不符合格律。我尽力了。我当年去肮脏的地方，却很觉得自己牛极了。
+网上查的我这个不符合格律。我尽力了。
+
+我当年去肮脏的地方，却很觉得自己牛极了。这就是当时“一栾”一句的原因。
+
+天之苍苍，是其正色。庄子就是大师。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAwMzA3MzEsLTMzODc1MjU4N119
+eyJoaXN0b3J5IjpbLTgwNTcwNjA0OSwtMTYxMDAzMDczMSwtMz
+M4NzUyNTg3XX0=
 -->
