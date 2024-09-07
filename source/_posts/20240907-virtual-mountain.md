@@ -19,8 +19,10 @@ title: virual mountain
 
 我当年去肮脏的地方，却很觉得自己牛极了。这就是当时“一栾”一句的原因。
 
-天之苍苍，是其正色。庄子就是大师。
+天之苍苍，是其正色。庄子就是大师。我佩服它
+
+本文就写到这里吧。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTcwNjA0OSwtMTYxMDAzMDczMSwtMz
+eyJoaXN0b3J5IjpbLTY5ODA1Nzg0NCwtMTYxMDAzMDczMSwtMz
 M4NzUyNTg3XX0=
 -->
